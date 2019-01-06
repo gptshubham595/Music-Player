@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "169793128419",
+    "firebase_url": "https://musicplayer-516df.firebaseio.com",
+    "project_id": "musicplayer-516df",
+    "storage_bucket": "musicplayer-516df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169793128419:android:0fb10e9eea65ffba",
+        "android_client_info": {
+          "package_name": "com.shubham.ggps.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169793128419-3tnb07ou2fc4s15p83it4g8jpbg728a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubham.ggps.musicplayer",
+            "certificate_hash": "45b3a2b89b7b74987888476ceb6ea575120d122e"
+          }
+        },
+        {
+          "client_id": "169793128419-752qgbl86vfaj3mebf1uk8ihu4vt5bq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4mAhvCaEo7QwFMcSciMu3Ei473rXYBqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169793128419-752qgbl86vfaj3mebf1uk8ihu4vt5bq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
